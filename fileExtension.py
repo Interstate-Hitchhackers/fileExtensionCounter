@@ -1,3 +1,4 @@
+# File Extension Counter
 # Imports
 import math
 import string
